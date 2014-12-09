@@ -8,5 +8,6 @@
  * @author Michal
  */
 public class CleanSys {
+  int atribut;
   public CleanSys(){};
 }
