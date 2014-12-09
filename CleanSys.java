@@ -8,5 +8,5 @@
  * @author Michal
  */
 public class CleanSys {
-  public CleanSys(){};
+ 
 }
